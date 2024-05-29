@@ -182,11 +182,11 @@ nav {
 }*/
 
 .bg-pink {
-    background-color: #d67b8e;
+    background-color: #0000ff;
 }
 
 .badge-info {
-    background-color: #d67b8e !important;
+    background-color: #0000ff !important;
 }
 
 @media (min-width: 768px) {
