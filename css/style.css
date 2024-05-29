@@ -78,7 +78,7 @@ header .overlay {
 
 /* change the link color */
 .navbar-custom .navbar-nav .nav-link {
-    color: #FFFFFF !important;
+    color: #fdffff !important;
 }
 
 /* change the color of active or hovered links */
@@ -98,12 +98,12 @@ nav {
 .profile h1 {
     font-size: 45px;
     font-weight: 400;
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
 .profile .subheading {
     font-size: 25px;
-    color: #FFF;
+    color: #;
 }
 
 .circular {
